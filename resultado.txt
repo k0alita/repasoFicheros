@@ -1,0 +1,2 @@
+D:\IdeaProjects\RepasoExamenFicheros\src\hola\filtrados\pepe.txt
+D:\IdeaProjects\RepasoExamenFicheros\src\hola\pepe.txt
