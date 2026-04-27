@@ -1,0 +1,27 @@
+[
+  {
+    "titulo": "Bart the Genius",
+    "anioEmision": 1990,
+    "sinopsis": "**Bart** hace trampa en un test de inteligencia y es enviado a una escuela especial donde no encaja para nada con los demás estudiantes."
+  },
+  {
+    "titulo": "Homer\u0027s Night Out",
+    "anioEmision": 1993,
+    "sinopsis": "**Homer** aparece en una foto comprometedora en una fiesta y **Marge** se disgusta muchísimo con él por su comportamiento tan irresponsable."
+  },
+  {
+    "titulo": "The Crepes of Wrath",
+    "anioEmision": 1994,
+    "sinopsis": "**Bart** es enviado a Francia como estudiante de intercambio mientras un niño albanés viene a vivir con **Homer** y **Marge** en Springfield."
+  },
+  {
+    "titulo": "Moaning Lisa",
+    "anioEmision": 1990,
+    "sinopsis": "**Lisa** está triste."
+  },
+  {
+    "titulo": "Lisa\u0027s Substitute",
+    "anioEmision": 1995,
+    "sinopsis": "**Lisa** se enamora de su profesor sustituto mientras **Bart** se presenta a las elecciones del colegio y **Maggie** observa todo desde su silla."
+  }
+]

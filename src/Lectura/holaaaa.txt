@@ -1,0 +1,911 @@
+(!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+           System.out.println("❌ Alguna ruta no es un directorio.");
+           return;
+       }
+       if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+           System.out.println("❌ Permisos incorrectos.");
+           return;
+       }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+            System.out.println("❌ Alguna ruta no es un directorio.");
+            return;
+        }
+        if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+            System.out.println("❌ Permisos incorrectos.");
+            return;
+        }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+             System.out.println("❌ Alguna ruta no es un directorio.");
+             return;
+         }
+         if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+             System.out.println("❌ Permisos incorrectos.");
+             return;
+         }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+              System.out.println("❌ Alguna ruta no es un directorio.");
+              return;
+          }
+          if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+              System.out.println("❌ Permisos incorrectos.");
+              return;
+          }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+               System.out.println("❌ Alguna ruta no es un directorio.");
+               return;
+           }
+           if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+               System.out.println("❌ Permisos incorrectos.");
+               return;
+           }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                System.out.println("❌ Alguna ruta no es un directorio.");
+                return;
+            }
+            if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                System.out.println("❌ Permisos incorrectos.");
+                return;
+            }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                 System.out.println("❌ Alguna ruta no es un directorio.");
+                 return;
+             }
+             if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                 System.out.println("❌ Permisos incorrectos.");
+                 return;
+             }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                  System.out.println("❌ Alguna ruta no es un directorio.");
+                  return;
+              }
+              if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                  System.out.println("❌ Permisos incorrectos.");
+                  return;
+              }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                   System.out.println("❌ Alguna ruta no es un directorio.");
+                   return;
+               }
+               if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                   System.out.println("❌ Permisos incorrectos.");
+                   return;
+               }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                    System.out.println("❌ Alguna ruta no es un directorio.");
+                    return;
+                }
+                if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                    System.out.println("❌ Permisos incorrectos.");
+                    return;
+                }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                     System.out.println("❌ Alguna ruta no es un directorio.");
+                     return;
+                 }
+                 if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                     System.out.println("❌ Permisos incorrectos.");
+                     return;
+                 }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                      System.out.println("❌ Alguna ruta no es un directorio.");
+                      return;
+                  }
+                  if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                      System.out.println("❌ Permisos incorrectos.");
+                      return;
+                  }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                       System.out.println("❌ Alguna ruta no es un directorio.");
+                       return;
+                   }
+                   if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                       System.out.println("❌ Permisos incorrectos.");
+                       return;
+                   }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                        System.out.println("❌ Alguna ruta no es un directorio.");
+                        return;
+                    }
+                    if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                        System.out.println("❌ Permisos incorrectos.");
+                        return;
+                    }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                         System.out.println("❌ Alguna ruta no es un directorio.");
+                         return;
+                     }
+                     if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                         System.out.println("❌ Permisos incorrectos.");
+                         return;
+                     }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                          System.out.println("❌ Alguna ruta no es un directorio.");
+                          return;
+                      }
+                      if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                          System.out.println("❌ Permisos incorrectos.");
+                          return;
+                      }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                           System.out.println("❌ Alguna ruta no es un directorio.");
+                           return;
+                       }
+                       if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                           System.out.println("❌ Permisos incorrectos.");
+                           return;
+                       }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                            System.out.println("❌ Alguna ruta no es un directorio.");
+                            return;
+                        }
+                        if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                            System.out.println("❌ Permisos incorrectos.");
+                            return;
+                        }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                             System.out.println("❌ Alguna ruta no es un directorio.");
+                             return;
+                         }
+                         if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                             System.out.println("❌ Permisos incorrectos.");
+                             return;
+                         }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                              System.out.println("❌ Alguna ruta no es un directorio.");
+                              return;
+                          }
+                          if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                              System.out.println("❌ Permisos incorrectos.");
+                              return;
+                          }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                               System.out.println("❌ Alguna ruta no es un directorio.");
+                               return;
+                           }
+                           if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                               System.out.println("❌ Permisos incorrectos.");
+                               return;
+                           }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                System.out.println("❌ Alguna ruta no es un directorio.");
+                                return;
+                            }
+                            if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                System.out.println("❌ Permisos incorrectos.");
+                                return;
+                            }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                 System.out.println("❌ Alguna ruta no es un directorio.");
+                                 return;
+                             }
+                             if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                 System.out.println("❌ Permisos incorrectos.");
+                                 return;
+                             }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                  System.out.println("❌ Alguna ruta no es un directorio.");
+                                  return;
+                              }
+                              if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                  System.out.println("❌ Permisos incorrectos.");
+                                  return;
+                              }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                   System.out.println("❌ Alguna ruta no es un directorio.");
+                                   return;
+                               }
+                               if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                   System.out.println("❌ Permisos incorrectos.");
+                                   return;
+                               }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                    System.out.println("❌ Alguna ruta no es un directorio.");
+                                    return;
+                                }
+                                if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                    System.out.println("❌ Permisos incorrectos.");
+                                    return;
+                                }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                     System.out.println("❌ Alguna ruta no es un directorio.");
+                                     return;
+                                 }
+                                 if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                     System.out.println("❌ Permisos incorrectos.");
+                                     return;
+                                 }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                      System.out.println("❌ Alguna ruta no es un directorio.");
+                                      return;
+                                  }
+                                  if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                      System.out.println("❌ Permisos incorrectos.");
+                                      return;
+                                  }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                       System.out.println("❌ Alguna ruta no es un directorio.");
+                                       return;
+                                   }
+                                   if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                       System.out.println("❌ Permisos incorrectos.");
+                                       return;
+                                   }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                        System.out.println("❌ Alguna ruta no es un directorio.");
+                                        return;
+                                    }
+                                    if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                        System.out.println("❌ Permisos incorrectos.");
+                                        return;
+                                    }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                         System.out.println("❌ Alguna ruta no es un directorio.");
+                                         return;
+                                     }
+                                     if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                         System.out.println("❌ Permisos incorrectos.");
+                                         return;
+                                     }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                          System.out.println("❌ Alguna ruta no es un directorio.");
+                                          return;
+                                      }
+                                      if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                          System.out.println("❌ Permisos incorrectos.");
+                                          return;
+                                      }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                           System.out.println("❌ Alguna ruta no es un directorio.");
+                                           return;
+                                       }
+                                       if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                           System.out.println("❌ Permisos incorrectos.");
+                                           return;
+                                       }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                            System.out.println("❌ Alguna ruta no es un directorio.");
+                                            return;
+                                        }
+                                        if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                            System.out.println("❌ Permisos incorrectos.");
+                                            return;
+                                        }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                             System.out.println("❌ Alguna ruta no es un directorio.");
+                                             return;
+                                         }
+                                         if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                             System.out.println("❌ Permisos incorrectos.");
+                                             return;
+                                         }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                              System.out.println("❌ Alguna ruta no es un directorio.");
+                                              return;
+                                          }
+                                          if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                              System.out.println("❌ Permisos incorrectos.");
+                                              return;
+                                          }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                               System.out.println("❌ Alguna ruta no es un directorio.");
+                                               return;
+                                           }
+                                           if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                               System.out.println("❌ Permisos incorrectos.");
+                                               return;
+                                           }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                System.out.println("❌ Alguna ruta no es un directorio.");
+                                                return;
+                                            }
+                                            if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                System.out.println("❌ Permisos incorrectos.");
+                                                return;
+                                            }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                 System.out.println("❌ Alguna ruta no es un directorio.");
+                                                 return;
+                                             }
+                                             if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                 System.out.println("❌ Permisos incorrectos.");
+                                                 return;
+                                             }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                  System.out.println("❌ Alguna ruta no es un directorio.");
+                                                  return;
+                                              }
+                                              if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                  System.out.println("❌ Permisos incorrectos.");
+                                                  return;
+                                              }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                   System.out.println("❌ Alguna ruta no es un directorio.");
+                                                   return;
+                                               }
+                                               if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                   System.out.println("❌ Permisos incorrectos.");
+                                                   return;
+                                               }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                    System.out.println("❌ Alguna ruta no es un directorio.");
+                                                    return;
+                                                }
+                                                if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                    System.out.println("❌ Permisos incorrectos.");
+                                                    return;
+                                                }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                     System.out.println("❌ Alguna ruta no es un directorio.");
+                                                     return;
+                                                 }
+                                                 if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                     System.out.println("❌ Permisos incorrectos.");
+                                                     return;
+                                                 }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                      System.out.println("❌ Alguna ruta no es un directorio.");
+                                                      return;
+                                                  }
+                                                  if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                      System.out.println("❌ Permisos incorrectos.");
+                                                      return;
+                                                  }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                       System.out.println("❌ Alguna ruta no es un directorio.");
+                                                       return;
+                                                   }
+                                                   if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                       System.out.println("❌ Permisos incorrectos.");
+                                                       return;
+                                                   }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                        System.out.println("❌ Alguna ruta no es un directorio.");
+                                                        return;
+                                                    }
+                                                    if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                        System.out.println("❌ Permisos incorrectos.");
+                                                        return;
+                                                    }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                         System.out.println("❌ Alguna ruta no es un directorio.");
+                                                         return;
+                                                     }
+                                                     if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                         System.out.println("❌ Permisos incorrectos.");
+                                                         return;
+                                                     }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                          System.out.println("❌ Alguna ruta no es un directorio.");
+                                                          return;
+                                                      }
+                                                      if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                          System.out.println("❌ Permisos incorrectos.");
+                                                          return;
+                                                      }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                           System.out.println("❌ Alguna ruta no es un directorio.");
+                                                           return;
+                                                       }
+                                                       if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                           System.out.println("❌ Permisos incorrectos.");
+                                                           return;
+                                                       }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                            System.out.println("❌ Alguna ruta no es un directorio.");
+                                                            return;
+                                                        }
+                                                        if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                            System.out.println("❌ Permisos incorrectos.");
+                                                            return;
+                                                        }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                             System.out.println("❌ Alguna ruta no es un directorio.");
+                                                             return;
+                                                         }
+                                                         if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                             System.out.println("❌ Permisos incorrectos.");
+                                                             return;
+                                                         }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                              System.out.println("❌ Alguna ruta no es un directorio.");
+                                                              return;
+                                                          }
+                                                          if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                              System.out.println("❌ Permisos incorrectos.");
+                                                              return;
+                                                          }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                               System.out.println("❌ Alguna ruta no es un directorio.");
+                                                               return;
+                                                           }
+                                                           if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                               System.out.println("❌ Permisos incorrectos.");
+                                                               return;
+                                                           }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                return;
+                                                            }
+                                                            if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                System.out.println("❌ Permisos incorrectos.");
+                                                                return;
+                                                            }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                 System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                 return;
+                                                             }
+                                                             if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                 System.out.println("❌ Permisos incorrectos.");
+                                                                 return;
+                                                             }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                  System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                  return;
+                                                              }
+                                                              if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                  System.out.println("❌ Permisos incorrectos.");
+                                                                  return;
+                                                              }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                   System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                   return;
+                                                               }
+                                                               if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                   System.out.println("❌ Permisos incorrectos.");
+                                                                   return;
+                                                               }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                    System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                    return;
+                                                                }
+                                                                if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                    System.out.println("❌ Permisos incorrectos.");
+                                                                    return;
+                                                                }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                     System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                     return;
+                                                                 }
+                                                                 if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                     System.out.println("❌ Permisos incorrectos.");
+                                                                     return;
+                                                                 }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                      System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                      return;
+                                                                  }
+                                                                  if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                      System.out.println("❌ Permisos incorrectos.");
+                                                                      return;
+                                                                  }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                       System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                       return;
+                                                                   }
+                                                                   if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                       System.out.println("❌ Permisos incorrectos.");
+                                                                       return;
+                                                                   }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                        System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                        return;
+                                                                    }
+                                                                    if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                        System.out.println("❌ Permisos incorrectos.");
+                                                                        return;
+                                                                    }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                         System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                         return;
+                                                                     }
+                                                                     if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                         System.out.println("❌ Permisos incorrectos.");
+                                                                         return;
+                                                                     }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                          System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                          return;
+                                                                      }
+                                                                      if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                          System.out.println("❌ Permisos incorrectos.");
+                                                                          return;
+                                                                      }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                           System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                           return;
+                                                                       }
+                                                                       if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                           System.out.println("❌ Permisos incorrectos.");
+                                                                           return;
+                                                                       }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                            System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                            return;
+                                                                        }
+                                                                        if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                            System.out.println("❌ Permisos incorrectos.");
+                                                                            return;
+                                                                        }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                             System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                             return;
+                                                                         }
+                                                                         if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                             System.out.println("❌ Permisos incorrectos.");
+                                                                             return;
+                                                                         }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                              System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                              return;
+                                                                          }
+                                                                          if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                              System.out.println("❌ Permisos incorrectos.");
+                                                                              return;
+                                                                          }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                               System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                               return;
+                                                                           }
+                                                                           if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                               System.out.println("❌ Permisos incorrectos.");
+                                                                               return;
+                                                                           }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                return;
+                                                                            }
+                                                                            if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                System.out.println("❌ Permisos incorrectos.");
+                                                                                return;
+                                                                            }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                 System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                 return;
+                                                                             }
+                                                                             if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                 System.out.println("❌ Permisos incorrectos.");
+                                                                                 return;
+                                                                             }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                  System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                  return;
+                                                                              }
+                                                                              if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                  System.out.println("❌ Permisos incorrectos.");
+                                                                                  return;
+                                                                              }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                   System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                   return;
+                                                                               }
+                                                                               if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                   System.out.println("❌ Permisos incorrectos.");
+                                                                                   return;
+                                                                               }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                    System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                    return;
+                                                                                }
+                                                                                if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                    System.out.println("❌ Permisos incorrectos.");
+                                                                                    return;
+                                                                                }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                     System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                     return;
+                                                                                 }
+                                                                                 if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                     System.out.println("❌ Permisos incorrectos.");
+                                                                                     return;
+                                                                                 }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                      System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                      return;
+                                                                                  }
+                                                                                  if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                      System.out.println("❌ Permisos incorrectos.");
+                                                                                      return;
+                                                                                  }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                       System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                       return;
+                                                                                   }
+                                                                                   if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                       System.out.println("❌ Permisos incorrectos.");
+                                                                                       return;
+                                                                                   }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                        System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                        return;
+                                                                                    }
+                                                                                    if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                        System.out.println("❌ Permisos incorrectos.");
+                                                                                        return;
+                                                                                    }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                         System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                         return;
+                                                                                     }
+                                                                                     if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                         System.out.println("❌ Permisos incorrectos.");
+                                                                                         return;
+                                                                                     }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                          System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                          return;
+                                                                                      }
+                                                                                      if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                          System.out.println("❌ Permisos incorrectos.");
+                                                                                          return;
+                                                                                      }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                           System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                           return;
+                                                                                       }
+                                                                                       if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                           System.out.println("❌ Permisos incorrectos.");
+                                                                                           return;
+                                                                                       }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                            System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                            return;
+                                                                                        }
+                                                                                        if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                            System.out.println("❌ Permisos incorrectos.");
+                                                                                            return;
+                                                                                        }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                             System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                             return;
+                                                                                         }
+                                                                                         if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                             System.out.println("❌ Permisos incorrectos.");
+                                                                                             return;
+                                                                                         }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                              System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                              return;
+                                                                                          }
+                                                                                          if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                              System.out.println("❌ Permisos incorrectos.");
+                                                                                              return;
+                                                                                          }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                               System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                               return;
+                                                                                           }
+                                                                                           if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                               System.out.println("❌ Permisos incorrectos.");
+                                                                                               return;
+                                                                                           }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                return;
+                                                                                            }
+                                                                                            if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                System.out.println("❌ Permisos incorrectos.");
+                                                                                                return;
+                                                                                            }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                 System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                 return;
+                                                                                             }
+                                                                                             if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                 System.out.println("❌ Permisos incorrectos.");
+                                                                                                 return;
+                                                                                             }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                  System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                  return;
+                                                                                              }
+                                                                                              if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                  System.out.println("❌ Permisos incorrectos.");
+                                                                                                  return;
+                                                                                              }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                   System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                   return;
+                                                                                               }
+                                                                                               if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                   System.out.println("❌ Permisos incorrectos.");
+                                                                                                   return;
+                                                                                               }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                    System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                    return;
+                                                                                                }
+                                                                                                if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                    System.out.println("❌ Permisos incorrectos.");
+                                                                                                    return;
+                                                                                                }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                     System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                     return;
+                                                                                                 }
+                                                                                                 if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                     System.out.println("❌ Permisos incorrectos.");
+                                                                                                     return;
+                                                                                                 }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                      System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                      return;
+                                                                                                  }
+                                                                                                  if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                      System.out.println("❌ Permisos incorrectos.");
+                                                                                                      return;
+                                                                                                  }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                       System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                       return;
+                                                                                                   }
+                                                                                                   if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                       System.out.println("❌ Permisos incorrectos.");
+                                                                                                       return;
+                                                                                                   }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                        System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                        return;
+                                                                                                    }
+                                                                                                    if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                        System.out.println("❌ Permisos incorrectos.");
+                                                                                                        return;
+                                                                                                    }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                         System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                         return;
+                                                                                                     }
+                                                                                                     if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                         System.out.println("❌ Permisos incorrectos.");
+                                                                                                         return;
+                                                                                                     }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                          System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                          return;
+                                                                                                      }
+                                                                                                      if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                          System.out.println("❌ Permisos incorrectos.");
+                                                                                                          return;
+                                                                                                      }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                           System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                           return;
+                                                                                                       }
+                                                                                                       if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                           System.out.println("❌ Permisos incorrectos.");
+                                                                                                           return;
+                                                                                                       }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                            System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                            return;
+                                                                                                        }
+                                                                                                        if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                            System.out.println("❌ Permisos incorrectos.");
+                                                                                                            return;
+                                                                                                        }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                             System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                             return;
+                                                                                                         }
+                                                                                                         if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                             System.out.println("❌ Permisos incorrectos.");
+                                                                                                             return;
+                                                                                                         }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                              System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                              return;
+                                                                                                          }
+                                                                                                          if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                              System.out.println("❌ Permisos incorrectos.");
+                                                                                                              return;
+                                                                                                          }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                               System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                               return;
+                                                                                                           }
+                                                                                                           if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                               System.out.println("❌ Permisos incorrectos.");
+                                                                                                               return;
+                                                                                                           }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                return;
+                                                                                                            }
+                                                                                                            if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                System.out.println("❌ Permisos incorrectos.");
+                                                                                                                return;
+                                                                                                            }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                 System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                 return;
+                                                                                                             }
+                                                                                                             if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                 System.out.println("❌ Permisos incorrectos.");
+                                                                                                                 return;
+                                                                                                             }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                  System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                  return;
+                                                                                                              }
+                                                                                                              if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                  System.out.println("❌ Permisos incorrectos.");
+                                                                                                                  return;
+                                                                                                              }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                   System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                   return;
+                                                                                                               }
+                                                                                                               if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                   System.out.println("❌ Permisos incorrectos.");
+                                                                                                                   return;
+                                                                                                               }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                    System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                    return;
+                                                                                                                }
+                                                                                                                if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                    System.out.println("❌ Permisos incorrectos.");
+                                                                                                                    return;
+                                                                                                                }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                     System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                     return;
+                                                                                                                 }
+                                                                                                                 if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                     System.out.println("❌ Permisos incorrectos.");
+                                                                                                                     return;
+                                                                                                                 }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                      System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                      return;
+                                                                                                                  }
+                                                                                                                  if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                      System.out.println("❌ Permisos incorrectos.");
+                                                                                                                      return;
+                                                                                                                  }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                       System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                       return;
+                                                                                                                   }
+                                                                                                                   if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                       System.out.println("❌ Permisos incorrectos.");
+                                                                                                                       return;
+                                                                                                                   }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                        System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                        return;
+                                                                                                                    }
+                                                                                                                    if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                        System.out.println("❌ Permisos incorrectos.");
+                                                                                                                        return;
+                                                                                                                    }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                         System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                         return;
+                                                                                                                     }
+                                                                                                                     if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                         System.out.println("❌ Permisos incorrectos.");
+                                                                                                                         return;
+                                                                                                                     }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                          System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                          return;
+                                                                                                                      }
+                                                                                                                      if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                          System.out.println("❌ Permisos incorrectos.");
+                                                                                                                          return;
+                                                                                                                      }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                           System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                           return;
+                                                                                                                       }
+                                                                                                                       if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                           System.out.println("❌ Permisos incorrectos.");
+                                                                                                                           return;
+                                                                                                                       }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                            System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                            return;
+                                                                                                                        }
+                                                                                                                        if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                            System.out.println("❌ Permisos incorrectos.");
+                                                                                                                            return;
+                                                                                                                        }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                             System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                             return;
+                                                                                                                         }
+                                                                                                                         if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                             System.out.println("❌ Permisos incorrectos.");
+                                                                                                                             return;
+                                                                                                                         }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                              System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                              return;
+                                                                                                                          }
+                                                                                                                          if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                              System.out.println("❌ Permisos incorrectos.");
+                                                                                                                              return;
+                                                                                                                          }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                               System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                               return;
+                                                                                                                           }
+                                                                                                                           if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                               System.out.println("❌ Permisos incorrectos.");
+                                                                                                                               return;
+                                                                                                                           }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                                System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                                return;
+                                                                                                                            }
+                                                                                                                            if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                                System.out.println("❌ Permisos incorrectos.");
+                                                                                                                                return;
+                                                                                                                            }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                                 System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                                 return;
+                                                                                                                             }
+                                                                                                                             if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                                 System.out.println("❌ Permisos incorrectos.");
+                                                                                                                                 return;
+                                                                                                                             }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                                  System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                                  return;
+                                                                                                                              }
+                                                                                                                              if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                                  System.out.println("❌ Permisos incorrectos.");
+                                                                                                                                  return;
+                                                                                                                              }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                                   System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                                   return;
+                                                                                                                               }
+                                                                                                                               if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                                   System.out.println("❌ Permisos incorrectos.");
+                                                                                                                                   return;
+                                                                                                                               }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                                    System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                                    return;
+                                                                                                                                }
+                                                                                                                                if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                                    System.out.println("❌ Permisos incorrectos.");
+                                                                                                                                    return;
+                                                                                                                                }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                                     System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                                     return;
+                                                                                                                                 }
+                                                                                                                                 if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                                     System.out.println("❌ Permisos incorrectos.");
+                                                                                                                                     return;
+                                                                                                                                 }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                                      System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                                      return;
+                                                                                                                                  }
+                                                                                                                                  if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                                      System.out.println("❌ Permisos incorrectos.");
+                                                                                                                                      return;
+                                                                                                                                  }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                                       System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                                       return;
+                                                                                                                                   }
+                                                                                                                                   if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                                       System.out.println("❌ Permisos incorrectos.");
+                                                                                                                                       return;
+                                                                                                                                   }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                                        System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                                        return;
+                                                                                                                                    }
+                                                                                                                                    if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                                        System.out.println("❌ Permisos incorrectos.");
+                                                                                                                                        return;
+                                                                                                                                    }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                                         System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                                         return;
+                                                                                                                                     }
+                                                                                                                                     if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                                         System.out.println("❌ Permisos incorrectos.");
+                                                                                                                                         return;
+                                                                                                                                     }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                                          System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                                          return;
+                                                                                                                                      }
+                                                                                                                                      if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                                          System.out.println("❌ Permisos incorrectos.");
+                                                                                                                                          return;
+                                                                                                                                      }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                                           System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                                           return;
+                                                                                                                                       }
+                                                                                                                                       if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                                           System.out.println("❌ Permisos incorrectos.");
+                                                                                                                                           return;
+                                                                                                                                       }if (!Files.isDirectory(rutaLectura) || !Files.isDirectory(rutaEscritura)) {
+                                                                                                                                            System.out.println("❌ Alguna ruta no es un directorio.");
+                                                                                                                                            return;
+                                                                                                                                        }
+                                                                                                                                        if (!Files.isReadable(rutaLectura) || !Files.isWritable(rutaEscritura)) {
+                                                                                                                                            System.out.println("❌ Permisos incorrectos.");
+                                                                                                                                            return;
+                                                                                                                                        }

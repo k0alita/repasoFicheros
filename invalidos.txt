@@ -1,0 +1,3 @@
+Línea 3: X Lopez Garcia 20
+Línea 4: Pedro Sanchez 45
+Línea 5: Maria Gomez Perez 101
